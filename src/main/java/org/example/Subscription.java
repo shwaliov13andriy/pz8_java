@@ -3,7 +3,7 @@ package org.example;
 public class Subscription {
     private static final double DEFAULT_MONTHLY_RATE = 199.0;
     private static final int DISCOUNT_MIN_MONTHS = 6;
-    private static final double DISCOUNT_MULTIPLIER = 0.95;
+    private static final double DISCOUNT_MULTIPLIER = 0.90;
 
     private final double monthlyRate;
 
